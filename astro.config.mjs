@@ -4,7 +4,7 @@ import tailwind from '@astrojs/tailwind';
 
 import sitemap from "@astrojs/sitemap";
 
-// https://czarworkstudio.github.io
+// https://ceplerk.github.io'
 export default defineConfig({
   devToolbar: {
     enabled: false
